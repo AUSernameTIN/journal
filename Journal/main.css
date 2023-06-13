@@ -1,4 +1,9 @@
 /* hello world */
-main {
-    color: palevioletred;
+h1{
+    font-family: sans-serif;
+    text-align: left;
+    
+}
+nav{
+    text-align: right;
 }
